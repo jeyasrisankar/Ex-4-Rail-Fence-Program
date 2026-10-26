@@ -70,3 +70,4 @@ printf("\nText after decryption: %s\n", d); return 0;
 <img width="1917" height="745" alt="image" src="https://github.com/user-attachments/assets/92fdd7e0-7b2f-4608-b0e2-de313e698e8b" />
 
 # RESULT
+The implementation of rail fence transposition technique using c program is successful.
